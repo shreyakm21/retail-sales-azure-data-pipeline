@@ -291,7 +291,7 @@ retail-sales-azure-data-pipeline/
 │
 ├── screenshots/
 │   ├── powerbi_dashboard.png
-│   ├── adf_pipeline.png
+│   ├── adf_pipeline.jpg
 │   ├── adls_bronze.png
 │   ├── databricks_silver.png
 │   └── databricks_gold.png
